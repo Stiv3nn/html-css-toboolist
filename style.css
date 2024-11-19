@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: whitesmoke;
+}
+
 header{
     background-color: white;
 }
@@ -17,4 +21,148 @@ header{
     font-size: 35px;
     font-weight: 800;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.attività{
+    background-color: rgb(124, 173, 219);
+    border-radius: 3px;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    
+}
+.sezione{
+    background-color: white;
+    border-radius: 3px;
+    border: 1px solid grey;
+    color: black;
+    padding: 5px 5px 5px 5px;
+}
+
+.new-task{
+    margin: 0 30px;
+    margin-top: 40px;
+}
+
+.quarterly-newsletter{
+    margin: 0 30px;
+    margin-top: 5px;
+}
+
+.spunta-1{
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+}
+
+.editoriale-1{
+    background-color:  rgb(124, 173, 219);
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+
+.today{
+    margin: 0 30px;
+    margin-top: 30px;
+}
+
+.blog-post{
+    margin: 0 30px;
+    margin-top: 5px;
+}
+
+.spunta-2{
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+}
+
+.editoriale-2{
+    background-color:  rgb(124, 173, 219);
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.mobile-app{
+    margin: 0 30px;
+    margin-top: 20px;
+}
+
+.spunta-3{
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+}
+
+.goals{
+    background-color:  rgb(104, 59, 145);
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.intervista{
+    margin: 0 30px;
+    margin-top: 20px; 
+}
+
+.errato-1{
+    border: 1px solid red;
+    color: red;
+    border-radius: 50%;
+}
+
+.reclutamento{
+    background-color:  green;
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+
+.upcoming{
+    margin: 0 30px;
+    margin-top: 20px;
+}
+
+.alex{
+    margin: 0 30px;
+    margin-top: 5px;
+}
+
+.errato-2{
+    border: 1px solid red;
+    color: red;
+    border-radius: 50%;
+}
+
+.pagina{
+    margin: 0 30px;
+    margin-top: 5px;
+}
+
+.spunta-4{
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+}
+
+.sito{
+    background-color: violet;
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
 }
