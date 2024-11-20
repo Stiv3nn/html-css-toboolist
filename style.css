@@ -5,12 +5,14 @@
 }
 
 body{
-    background-color: whitesmoke;
+    background-color: grey;
 }
 
+header{
+    background-color: white;
+}
 
 header img{
-    background-color: white;
     width: 55px;
     height: 55px;
     line-height: 100%;
@@ -40,7 +42,9 @@ main{
     margin: 0 auto;
     background-color: white;
     margin-top: 50px;
+    padding: 15px 50px;
 }
+
 
 .attività{
     background-color: rgb(124, 173, 219);
