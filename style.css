@@ -8,13 +8,21 @@ body{
     background-color: whitesmoke;
 }
 
-header{
+
+header img{
     background-color: white;
+    width: 55px;
+    height: 55px;
+    line-height: 100%;
+    vertical-align: middle;
+
 }
 
-#header-logo{
-    margin: 0px 20px;
-    padding-top: 10px;
+header span{
+    font-size: 55px;
+    font-weight: bold;
+    line-height: 100%;
+    vertical-align: middle;
 }
 
 .nome-logo{
